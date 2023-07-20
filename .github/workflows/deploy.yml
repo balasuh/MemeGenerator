@@ -30,5 +30,6 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
+          port: 21
           source: "build/*"
-          target: "public_html"
+          target: "/public_html/"
