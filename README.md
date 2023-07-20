@@ -10,7 +10,7 @@ Underneath the hood, this app features the following react technologies:
 * Forms
 * Side effects
 
-My goal with this project was to gain more exposure to deeper react concepts and technologies. This project also serves as a good primer to get into advanced react
+My goal with this project has been to gain more exposure to deeper react concepts and technologies. This project also serves as a good primer to get into advanced react
 development.
 
 ## Getting Started with Create React App
