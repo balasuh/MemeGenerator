@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# React Demo - Meme Generator
+
+This project features a simple meme generator application, where the user has the option of writing a "top text" and a "bottom text". Upon pressing "Generate a new meme image" button, a random meme image will be generated. The end-result may or may not be a worthy meme: that is the goal of this app - to let randomness play a role in generating fun memes.
+
+Underneath the hood, this app features the following react technologies:
+
+* Event Listeners
+* State
+* Conditional rendering
+* Forms
+* Side effects
+
+My goal with this project has been to gain more exposure to deeper react concepts and technologies. This project also serves as a good primer to get into advanced react
+development.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
